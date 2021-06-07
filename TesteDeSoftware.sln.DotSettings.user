@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=327520fb_002Dade4_002D4118_002D9460_002D9b14d98bed64/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Calculadora_somar_RetornarValorSoma" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C2A0D923-E2B8-4F2F-8C8E-8DE525A755CD::net5.0::Demo.Tests.CalculadoraTests.Calculadora_somar_RetornarValorSoma&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

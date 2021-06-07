@@ -1,0 +1,12 @@
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\bin\Debug\net5.0\Features.deps.json
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\bin\Debug\net5.0\Features.dll
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\bin\Debug\net5.0\ref\Features.dll
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\bin\Debug\net5.0\Features.pdb
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\net5.0\Features.csprojAssemblyReference.cache
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\net5.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\net5.0\Features.AssemblyInfoInputs.cache
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\net5.0\Features.AssemblyInfo.cs
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\net5.0\Features.csproj.CoreCompileInputs.cache
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\net5.0\Features.dll
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\net5.0\ref\Features.dll
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\net5.0\Features.pdb

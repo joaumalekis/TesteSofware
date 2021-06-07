@@ -1,0 +1,12 @@
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net5.0\Demo.dll
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net5.0\ref\Demo.dll
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net5.0\Demo.pdb
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.csprojAssemblyReference.cache
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.dll
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\01_PROJETOS\03_DEV_IO\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net5.0\Demo.pdb
