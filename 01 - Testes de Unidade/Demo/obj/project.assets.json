@@ -8,28 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Joaum\\.nuget\\packages\\": {}
+    "/Users/joaoalexrodrigues/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+      "projectUniqueName": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Demo/Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
-      "packagesPath": "C:\\Users\\Joaum\\.nuget\\packages\\",
-      "outputPath": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Demo\\obj\\",
+      "projectPath": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Demo/Demo.csproj",
+      "packagesPath": "/Users/joaoalexrodrigues/.nuget/packages/",
+      "outputPath": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joaum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/joaoalexrodrigues/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/nextplustfs/_packaging/NextplusFramework%40Local/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -61,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

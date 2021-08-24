@@ -1,36 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Feature.Tests\\Features.Tests\\Features.Tests.csproj": {}
+    "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Feature.Tests/Features.Tests/Features.Tests.csproj": {}
   },
   "projects": {
-    "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Feature.Tests\\Features.Tests\\Features.Tests.csproj": {
+    "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Feature.Tests/Features.Tests/Features.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Feature.Tests\\Features.Tests\\Features.Tests.csproj",
+        "projectUniqueName": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Feature.Tests/Features.Tests/Features.Tests.csproj",
         "projectName": "Features.Tests",
-        "projectPath": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Feature.Tests\\Features.Tests\\Features.Tests.csproj",
-        "packagesPath": "C:\\Users\\Joaum\\.nuget\\packages\\",
-        "outputPath": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Feature.Tests\\Features.Tests\\obj\\",
+        "projectPath": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Feature.Tests/Features.Tests/Features.Tests.csproj",
+        "packagesPath": "/Users/joaoalexrodrigues/.nuget/packages/",
+        "outputPath": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Feature.Tests/Features.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Joaum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/joaoalexrodrigues/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/nextplustfs/_packaging/NextplusFramework%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
-                "projectPath": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj"
+              "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Features/Features.csproj": {
+                "projectPath": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Features/Features.csproj"
               }
             }
           }
@@ -45,9 +42,25 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[33.0.2, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "Moq.AutoMock": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -56,6 +69,12 @@
               "version": "[1.3.0, )"
             },
             "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.console": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.4.1, )"
             },
@@ -81,30 +100,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
+    "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Features/Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectUniqueName": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Features/Features.csproj",
         "projectName": "Features",
-        "projectPath": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
-        "packagesPath": "C:\\Users\\Joaum\\.nuget\\packages\\",
-        "outputPath": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
+        "projectPath": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Features/Features.csproj",
+        "packagesPath": "/Users/joaoalexrodrigues/.nuget/packages/",
+        "outputPath": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Features/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Joaum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/joaoalexrodrigues/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/nextplustfs/_packaging/NextplusFramework%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -146,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

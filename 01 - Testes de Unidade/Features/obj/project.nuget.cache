@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CG5zNA4T4Aguo/qnQnAqJtguiT+s/5wJlyhx76pOQdHGTFT6OdjRNsCUuO+xXsEVKD1wOnROu9T3E/XXRD6spQ==",
+  "dgSpecHash": "OfQu+3xCiuk1RjGOaom9yJjAvh0//0Xhw0S23BHbD6RmsEjxq+uh0bxwVO0LlnkLpXeznxQr2Oexx75UxmwCuQ==",
   "success": true,
-  "projectFilePath": "C:\\01_PROJETOS\\03_DEV_IO\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+  "projectFilePath": "/Users/joaoalexrodrigues/Projects/07_DEV_IO/TesteSofware/01 - Testes de Unidade/Features/Features.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Joaum\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
-    "C:\\Users\\Joaum\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+    "/Users/joaoalexrodrigues/.nuget/packages/fluentvalidation/10.1.0/fluentvalidation.10.1.0.nupkg.sha512",
+    "/Users/joaoalexrodrigues/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
